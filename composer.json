@@ -57,11 +57,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Gr8DevOfficial/admin-auth"
+            "url": "https://github.com/Gr8DevOfficial/admin-auth.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/Gr8DevOfficial/admin-ui"
+            "url": "https://github.com/Gr8DevOfficial/admin-ui.git"
         }
     ]
 }
