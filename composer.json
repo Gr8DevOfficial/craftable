@@ -30,7 +30,8 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "brackets/admin-ui": "^3.0",
+        "brackets/admin-ui": "dev-master",
+        "brackets/admin-auth": "dev-master",
         "brackets/admin-listing": "^2.0",
         "brackets/admin-translations": "^3.0",
         "brackets/advanced-logger": "^1.0",
@@ -55,5 +56,15 @@
         "branch-alias": {
             "dev-master": "3.0-dev"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Gr8DevOfficial/admin-auth"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Gr8DevOfficial/admin-ui"
+        }
+    ]
 }
