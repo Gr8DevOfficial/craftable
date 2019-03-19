@@ -1,6 +1,6 @@
 {
     "name": "brackets/craftable",
-    "description": "Administration toolkit for Laravel 5 - starting point for developing administration interface",
+    "description": "Administration toolkit for Laravel 5 - starting point for developing administration interface (Coders Studio fork)",
     "keywords": [
         "craftable",
         "crud",
